@@ -13,6 +13,6 @@ See this throughly **_entertaining and educational_** [video](https://www.youtub
 
 <img src="https://github.com/rohit-kumar-j/DIY-TP4560-Charging-Station/blob/main/Charging%20Station/Charging%20Station%20Vrt%20Preview.PNG">
 
-# With a few minor changes...
+## With a few minor changes...
 
 <img src="https://github.com/rohit-kumar-j/DIY-TP4560-Charging-Station/blob/main/Charging%20Station/Charging%20Station%20Image.jpeg">
